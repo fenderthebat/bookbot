@@ -1,2 +1,2 @@
 # bookbot
-yep it's a first one!
+Software to count the letters in a source file
